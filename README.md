@@ -1,11 +1,13 @@
 # Chennai-house-price-prediction
 
 INTRODUCTION:
+
 Welcome to the Chennai House Price Prediction project! This repository contains the code and resources for predicting house prices in Chennai using machine learning techniques, specifically the linear regression model. With a remarkable maximum prediction score of 90.4%, this project aims to assist individuals in estimating the prices of houses in the Chennai real estate market.
 
 If you're interested in exploring how machine learning can be applied to real-world scenarios, particularly in the context of real estate, this project offers valuable insights into the predictive power of linear regression models.
 
 TECH STACK:
+
 The Chennai House Price Prediction project is built using the following technologies and tools:
 
 1. Python: The core programming language used for data preprocessing, model development, and evaluation.
